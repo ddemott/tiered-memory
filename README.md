@@ -25,7 +25,7 @@ core package makes no model calls itself. Bring your own LLM.
 ## Install
 
 ```bash
-pip install git+file:///home/dale/projects/tiered-memory   # local path, adjust for wherever you cloned it
+pip install git+https://github.com/ddemott/tiered-memory
 # or, from a checkout:
 pip install -e .
 ```
