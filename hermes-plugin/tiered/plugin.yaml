@@ -1,0 +1,5 @@
+name: tiered
+version: 0.1.0
+description: "Tiered memory — short/medium/long term, local SQLite + markdown, no external service."
+pip_dependencies: []
+requires_env: []
