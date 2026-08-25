@@ -117,6 +117,10 @@ hermes-plugin/tiered/    # drop-in Hermes memory provider
   __init__.py
 ```
 
+## Topics
+
+`llm` · `ai-agents` · `agent-memory` · `long-term-memory` · `memory` · `python` · `sqlite` · `hermes-agent` · `llm-agents`
+
 ## License
 
 MIT — see `LICENSE`.
