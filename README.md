@@ -1,5 +1,6 @@
 # tiered-memory
 
+[![CI](https://github.com/ddemott/tiered-memory/actions/workflows/ci.yml/badge.svg)](https://github.com/ddemott/tiered-memory/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ddemott/tiered-memory/blob/main/LICENSE)
 
 Short/medium/long-term memory for LLM agents. Stdlib-only Python package,
